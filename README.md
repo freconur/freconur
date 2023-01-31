@@ -3,7 +3,7 @@
 
 - 👨‍💻 Encuentra mis proyectos en [fech.vercel.app/](fech.vercel.app/)
 
-- 💬 Lenguajes de programacion **HTML, CSS, Javascript, Typescript,Reactjs,**
+- 💬 Lenguajes de programacion **Javascript, Typescript, Reactjs,**
 
 - 📫 Contactame al correo **freconur@gmail.com**
 
