@@ -1,11 +1,11 @@
 <h1 align="center">Hola soy Franco Condori</h1>
 <h3 align="center">Apasionado porla tecnologia y la programacion, sobre todo en el Fronted</h3>
 
-- 👨‍💻 All of my projects are available at [fech.vercel.app/](fech.vercel.app/)
+- 👨‍💻 Encuentra mis proyectos en [fech.vercel.app/](fech.vercel.app/)
 
-- 💬 Ask me about **HTML, CSS, Javascript, Reactjs,**
+- 💬 Lenguajes de programacion **HTML, CSS, Javascript, Reactjs,**
 
-- 📫 How to reach me **freconur@gmail.com**
+- 📫 Contactame al correo **freconur@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
