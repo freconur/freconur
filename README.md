@@ -1,7 +1,7 @@
 <h1 align="center">Hola soy Franco Condori</h1>
 <h3 align="center">Apasionado porla tecnologia y la programacion, sobre todo en el Fronted</h3>
 
-- 👨‍💻 Encuentra mis proyectos en [fech.vercel.app/](fech.vercel.app/)
+- 👨‍💻 Encuentra mis proyectos en [francocondori.vercel.app/](francocondori.vercel.app/)
 
 - 💬 Lenguajes de programacion **Javascript, Typescript, Reactjs,**
 
